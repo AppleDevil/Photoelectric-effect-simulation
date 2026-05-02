@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Photoelectric-effect-simulation/',
+  base: '/photoelectric-effect-simulation/',
 })
