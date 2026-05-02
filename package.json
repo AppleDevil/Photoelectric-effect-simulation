@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AppleDevil.github.io/photoelectric-effect-simulation",
+  "homepage": "https://AppleDevil.github.io/Photoelectric-effect-simulation",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
