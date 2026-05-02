@@ -20,6 +20,7 @@ function App() {
       <header className="header">
         <h1>Photoelectric Effect Simulation</h1>
         <p className="subtitle">Interactive Physics Visualization</p>
+        <p className="copyright">Copyright © 2026 Wahhaj Farooq</p>
       </header>
 
       <main className="main-content">

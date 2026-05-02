@@ -39,6 +39,12 @@ body {
   font-size: 0.9rem;
 }
 
+.copyright {
+  color: #666;
+  margin-top: 4px;
+  font-size: 0.85rem;
+}
+
 .main-content {
   display: flex;
   flex-direction: column;
