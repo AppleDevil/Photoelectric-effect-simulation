@@ -209,8 +209,7 @@ function drawCurrentVsVoltage(
   ctx: CanvasRenderingContext2D,
   intensity: number,
   frequency: number,
-  threshold: number,
-  voltage: number
+  threshold: number
 ) {
   ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 
@@ -405,7 +404,7 @@ function Graph({
   useEffect(() => {
     const ivCtx = ivCanvas.current?.getContext("2d");
     if (ivCtx) {
-      drawCurrentVsVoltage(ivCtx, intensity, frequency, thresholdFrequency, voltage);
+      drawCurrentVsVoltage(ivCtx, intensity, frequency, thresholdFrequency);
     }
 
     const iiCtx = iICanvas.current?.getContext("2d");
