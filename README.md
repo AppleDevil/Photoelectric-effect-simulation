@@ -4,7 +4,7 @@ An interactive physics simulation demonstrating the **photoelectric effect** —
 
 ## Live Demo
 
-Hosted on GitHub Pages: **https://AppleDevil.github.io/photoelectric-effect-simulation/**
+Hosted on GitHub Pages: **[https://AppleDevil.github.io/photoelectric-effect-simulation/](https://appledevil.github.io/Photoelectric-effect-simulation/)**
 
 ---
 
