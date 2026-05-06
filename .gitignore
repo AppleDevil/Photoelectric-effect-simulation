@@ -13,8 +13,3 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
-
-# AI-specific
-CLAUDE.md
-AGENTS.md
-.history/
